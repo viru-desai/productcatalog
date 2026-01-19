@@ -1,0 +1,11 @@
+
+🧾 INVOICE - Fake Bill
+-------------------------
+Name: Sahana
+Product: dsafa
+Price: ₹31232
+Address: Dharwad
+Pincode: 580006
+Date: 14/7/2025, 9:40:06 pm
+-------------------------
+Thank you for your order!

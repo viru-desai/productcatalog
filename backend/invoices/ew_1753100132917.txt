@@ -1,0 +1,11 @@
+
+🧾 INVOICE - Fake Bill
+-------------------------
+Name: ew
+Product: dsaf
+Price: ₹3123
+Address: dsaf
+Pincode: 3q23
+Date: 21/7/2025, 5:45:32 pm
+-------------------------
+Thank you for your order!

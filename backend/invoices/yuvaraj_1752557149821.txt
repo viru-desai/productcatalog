@@ -1,0 +1,11 @@
+
+🧾 INVOICE - Fake Bill
+-------------------------
+Name: yuvaraj
+Product: dsaf
+Price: ₹3123
+Address: fsdfdd
+Pincode: 32412
+Date: 15/7/2025, 10:55:49 am
+-------------------------
+Thank you for your order!

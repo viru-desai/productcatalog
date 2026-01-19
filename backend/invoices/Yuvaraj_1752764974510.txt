@@ -1,0 +1,11 @@
+
+🧾 INVOICE - Fake Bill
+-------------------------
+Name: Yuvaraj
+Product: chetan
+Price: ₹31
+Address: dsf
+Pincode: 43242
+Date: 17/7/2025, 8:39:34 pm
+-------------------------
+Thank you for your order!

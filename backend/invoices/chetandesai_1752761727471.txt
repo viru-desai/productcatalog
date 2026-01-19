@@ -1,0 +1,11 @@
+
+🧾 INVOICE - Fake Bill
+-------------------------
+Name: chetandesai
+Product: dsafa
+Price: ₹31232
+Address: sadf
+Pincode: 328234
+Date: 17/7/2025, 7:45:27 pm
+-------------------------
+Thank you for your order!

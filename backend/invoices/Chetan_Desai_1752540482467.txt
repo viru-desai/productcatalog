@@ -1,0 +1,11 @@
+
+🧾 INVOICE - Fake Bill
+-------------------------
+Name: Chetan Desai
+Product: dasD
+Price: ₹31
+Address: faf
+Pincode: 3247242
+Date: 15/7/2025, 6:18:02 am
+-------------------------
+Thank you for your order!
